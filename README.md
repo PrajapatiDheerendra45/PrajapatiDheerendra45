@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dheerendra Prajapati
-- 👀 I’m interested in React.Js 
-- 💞️ I’m looking to collaborate on React.Js
+- 👀 I’m interested in React.Js || Mern Stack Developer || Front End Developer
+- 💞️ I’m looking to collaborate on React.Js || Mern Stack Developer || Front End Developer
 - 📫 How to reach me prajapatidheerendra45@gmail.com
