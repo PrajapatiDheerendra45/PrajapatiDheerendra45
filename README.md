@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Dheerendra Prajapati
-- 👀 I’m interested in React.Js || Mern Stack Developer || Front End Developer
-- 💞️ I’m looking to collaborate on React.Js || Mern Stack Developer || Front End Developer
-- 📫 How to reach me prajapatidheerendra45@gmail.com
+Experience
+🏢 MERN STACK DEVELOPER
+
+Manasvi Technologies OPC Pvt. Ltd., Bhopal, India (June 2023 - Present)
+
+🚀 Key Contributions:
+Developed and deployed scalable web applications, ensuring high performance and reliability.
+Led MERN stack projects, managing full-cycle development from planning to deployment.
+Collaborated with cross-functional teams to deliver innovative tech solutions on time.
