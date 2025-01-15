@@ -13,17 +13,10 @@
 **Manasvi Technologies OPC Pvt. Ltd., Bhopal, India** *(June 2023 - Present)*  
 - 🚀 **Key Contributions**:
   - Developed and deployed scalable web applications, ensuring high performance and reliability.  
-  - Led MERN stack projects, managing full-cycle development from planning to deployment.  
-  - Administered databases and managed Virtual Private Servers (VPS) for secure and efficient hosting solutions.  
+  - MERN stack projects, managing full-cycle development from planning to deployment.    
   - Collaborated with cross-functional teams to deliver innovative tech solutions on time.  
 
-<details>
-  <summary>📌 Expanded Role: <strong>Team Lead</strong></summary>
-  - Mentored and guided a team of junior developers in technical and project management aspects.  
-  - Streamlined project workflows, ensuring timely and efficient delivery.  
-  - Played a pivotal role in design reviews, ensuring high code quality and adherence to industry standards.  
-  - Spearheaded efforts to modernize existing applications, incorporating cutting-edge technologies.  
-</details>  
+
 
 ---
 
@@ -34,11 +27,7 @@
   - Collaborated in a team environment to deliver project milestones successfully.  
 </details>
 
-<details>
-  <summary>2. <strong>Social Entrepreneurship Internship</strong> - Hamari Pehchan NGO *(Dec 2022)*</summary>
-  - Assisted in developing social entrepreneurship initiatives to support underprivileged communities.  
-  - Created digital assets and participated in outreach campaigns.  
-</details>
+
 
 ---
 
@@ -78,7 +67,7 @@
 
 <h2 align="center">🚀 DevOps & Hosting</h2>
 <p align="center">
-  <img src="data:image/png;base64,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" alt="Ubuntu Badge"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"Ubuntu Badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/VPS_Hosting-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="VPS Hosting Badge"/>
   <img src="https://img.shields.io/badge/SSL_Certificates-0089D6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL Badge"/>
@@ -109,7 +98,7 @@
 
 <h2 align="center">📫 Get in Touch</h2>
 <ul>
-  <li>📧 Email: <a href="mailto:dprajapati15302@gmail.com">prajapatidheerendra45@gmail.com</a></li>
+  <li>📧 Email: <a href="prajapatidheerendra45@gmail.com">prajapatidheerendra45@gmail.com</a></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/dheerendra-prajapati-software-developer-378274247/">Dheerendra Prajapati</a></li>
 </ul>
 
