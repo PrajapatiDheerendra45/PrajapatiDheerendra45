@@ -12,7 +12,7 @@
 <h2 align="center">💼 Experience</h2>
 
 ### 🏢 **MERN STACK DEVELOPER**  
-**Manasvi Technologies OPC Pvt. Ltd., Bhopal, India** *(June 2023 - Present)*  
+**Manasvi Technologies OPC Pvt. Ltd., Bhopal, India** *(Jan 20222 - Present)*  
 - 🚀 **Key Contributions**:
   - Developed and deployed scalable web applications, ensuring high performance and reliability.  
   - MERN stack projects, managing full-cycle development from planning to deployment.    
