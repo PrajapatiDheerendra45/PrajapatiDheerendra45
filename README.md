@@ -24,7 +24,7 @@
 
 ### 🧑‍💻 **Internships**
 <details>
-  <summary>1. <strong>Web Development Internship</strong> - SCA *(Jan - March 2023)*</summary>
+  <summary>1. <strong>Web Development Internship</strong> - SCA *(OCT - DEC 2021)*</summary>
   - Designed and implemented responsive web applications using modern frameworks and tools.  
   - Collaborated in a team environment to deliver project milestones successfully.  
 </details>
